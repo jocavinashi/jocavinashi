@@ -4,4 +4,4 @@
 - Professional coffee consumer and code whisperer.
 - Turning caffeine into questionable code, one cup at a time.
 
->> Github for Fun, Gitlab for Work A
+>> Github for Fun, Gitlab for Work
